@@ -1,0 +1,5 @@
+How many total Daily, Weekly, Monthly
+
+How many resolved daily, weekly, monthly
+
+Heat maps
